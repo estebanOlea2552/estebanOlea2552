@@ -47,19 +47,14 @@ ___
 
 ### Estos son algunos lenguajes y herramientas que utilizo:
 
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/></a></code> <!-- Javascript -->
-<code><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/></a></code> <!-- Typescript -->
-<code><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/></a></code> <!-- HTML -->
-<code><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/></a></code> <!-- CSS -->
-<code><a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="40"/></a></code> <!-- Angular -->
-<code><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40"/></a></code> <!-- Bootstrap -->
-<code><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40"/></a></code> <!-- Tailwind -->
-<code><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40"/></a></code> <!-- Java -->
-<code><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="40"/></a></code> <!-- Spring -->
-<code><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/></a></code> <!-- MySQL -->
-<code><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/></a></code> <!-- PostgreSQL -->
-<code><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40"/></a></code> <!-- Docker -->
-<code><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/></a></code> <!-- Git -->
-<code><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/></a></code> <!-- Linux -->
-</p>
+___
+
+<div align="center"><img align="center" src="logos/js_logo_pixel.png" alt="javascript" height="60"/><!-- Javascript --><img align="center" src="logos/typescript_logo_pixel.png" alt="Typescript" height="60"/><!-- Typescript --><img align="center" src="logos/angular_logo_pixel.png" alt="Angular" height="60"/><!-- Angular --><img align="center" src="logos/bootstrap_logo_pixel.png" alt="Bootstrap" height="60"/><!-- Bootstrap --><img align="center" src="logos/tailwind_logo_pixel.png" alt="Tailwind" height="60"/><!-- Tailwind --><img align="center" src="logos/react_logo_pixel.png" alt="React" height="60"/><!-- React --></div>
+
+___
+
+<div align="center"><img align="center" src="logos/java_logo_pixel.png" alt="Java" height="60"/><!-- Java --><img align="center" src="logos/spring_logo_pixel.png" alt="Spring" height="60"/><!-- Spring --><img align="center" src="logos/springboot_logo_pixel.png" alt="Springboot" height="60"/><!-- Springboot --><img align="center" src="logos/sql_logo_pixel.png" alt="SQL" height="60"/><!-- SQL --><img align="center" src="logos/mysql_logo_pixel.png" alt="MySQL" height="60"/><!-- MySQL --><img align="center" src="logos/postgre_logo_pixel.png" alt="PostgreSQL" height="60"/><!-- PostgreSQL --></div>
+
+___
+
+<div align="center"><img align="center" src="logos/docker_logo_pixel.png" alt="Docker" height="60"/><!-- Docker --><img align="center" src="logos/git_logo_pixel.png" alt="git" height="60"/><!-- git --><img align="center" src="logos/linux_logo_pixel.png" alt="Linux" height="60"/><!-- Linux --></div>
