@@ -1,16 +1,19 @@
 ![Esteban Olea](/logos/fondo.gif)
 
+# Hola!:wave: <img height="25" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFhZTRhZjk1ZnNja2lscWpzOWh0N3l3ZHBidnJjMXFsc2xpZ2dsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2rRw7m1u4AUtyMdizv/200w.webp">
 
-<p>Soy un fanático del código, ya que este oficio me permite unificar dos de mis más grandes pasiones: El pensamiento lógico-técnico y la creatividad para la resolución de problemas. Mi enfoque en esta industria es la excelencia y el crecimiento continuo, siempre estoy aprendiendo nuevas habilidades que me permitan hacer un trabajo de mayor calidad y en el menor tiempo posible. Me encanta el trabajo en equipo y la creación de comunidad entre desarrolladores. Creo firmemente que un grupo de programadores bien guiados y con un objetivo en común es como un equipo de superhéroes, y las soluciones que pueden crear alcanzan hasta donde llegue la imaginación.</p>
+Soy Esteban, un desarrollador de software argentino especializado en [Desarrollo Full-Stack](#).<img height="25" src="https://i.giphy.com/ieDVXZS9Hzkmxk3MTj.webp">
 
-### 👨‍💻 Puedes conocer más sobre mí en mi Portfolio personal! [Click Aquí!](https://esteban-olea---portfolio.web.app)
+Pero más en confianza, soy un friki de las computadoras :computer:, apasionado de los sistemas informáticos 👨‍💻 y fan de los videojuegos retro (espero que no se note :smile:) :space_invader:
+
+Esta pasión la llevo en mi día a día durante el proceso de creación de nuevas piezas de software.
+
+Puedes conocer más sobre mí en mi Portfolio personal haciendo [Click Aquí!](https://esteban-olea---portfolio.web.app)<img height="15" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY255cWEzdXgwbDhqZHhhZjJ3MWlyOHRoNXJobXdtZ2FkdjV6NDZsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ibpWdrehdzJJOr8li6/giphy.webp">
 
 ### También puedes conectar conmigo en
 
 <a href="https://linkedin.com/in/esteban olea" target="__blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esteban olea" height="30"/>
 </a>
-___
-___
 
 <img height="15" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndod2I5NjdiM210bzVnZDJzdG9oOWgxMTFyb29odXNscDRtMWdreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XdK1wtoRHfIJMBxiYe/giphy.webp">
 
@@ -22,16 +25,11 @@ ___
 
 <img height="15" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNxN29jOWc0am53NXF3ZHR5M3FpMXF3bGY3YjNrdG9weXFqODBxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GGE9CDsizAqu4/giphy.webp">
 
-
 <img height="15" src="https://i.giphy.com/h6fCapflUjd3CSWZVf.webp">
 
 <img height="15" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemozbWg1Z2dtdGl1OHU5NjA5enlranAyOWtyOGt2bHBpb3h0NmFxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QGHIqoND9eNt9Y9sGg/200.webp">
 
-<img height="15" src="https://i.giphy.com/ieDVXZS9Hzkmxk3MTj.webp">
-
 <img height="15" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Jma2k4MTZteXd3dDYzaGtoY28zMzJ6bG43d21scm54aTZjNTI3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QAlOMK9VYPkDXh4dyT/giphy.webp">
-
-<img height="15" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFhZTRhZjk1ZnNja2lscWpzOWh0N3l3ZHBidnJjMXFsc2xpZ2dsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2rRw7m1u4AUtyMdizv/200w.webp">
 
 <img height="15" src="https://i.giphy.com/1679iPKc2ZP840Hxjp.webp">
 
@@ -41,7 +39,7 @@ ___
 
 <img height="15" src="https://i.giphy.com/7rQFBm0XOyUxz3C9Kx.webp">
 
-<img height="15" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY255cWEzdXgwbDhqZHhhZjJ3MWlyOHRoNXJobXdtZ2FkdjV6NDZsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ibpWdrehdzJJOr8li6/giphy.webp">
+
 
 <img height="15" src="https://i.giphy.com/vAFG6UHl9XmTHTq1Ll.webp">
 
