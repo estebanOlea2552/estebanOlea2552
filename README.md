@@ -15,7 +15,7 @@ Que además, es desarrollador de software argentino especializado en [Desarrollo
 
 ___
 
-<div><img align="center" src="logos/java_logo_pixel.png" alt="Java" height="70"/><!-- Java --><img align="center" src="logos/spring_logo_pixel.png" alt="Spring" height="70"/><!-- Spring --><img align="center" src="logos/springboot_logo_pixel.png" alt="Springboot" height="70"/><!-- Springboot --><img align="center" src="logos/sql_logo_pixel.png" alt="SQL" height="70"/><!-- SQL --><img align="center" src="logos/mysql_logo_pixel.png" alt="MySQL" height="70"/><!-- MySQL --><img align="center" src="logos/postgre_logo_pixel.png" alt="PostgreSQL" height="70"/><!-- PostgreSQL --></div>
+<div><img align="center" src="logos/java_logo_pixel.png" alt="Java" height="70"/><!-- Java --><img align="center" src="logos/spring_logo_pixel.png" alt="Spring" height="70"/><!-- Spring --><img align="center" src="logos/springboot_logo_pixel.png" alt="Springboot" height="70"/><!-- Springboot --><img align="center" src="logos/sql_logo_pixel.png" alt="SQL" height="70"/><!-- SQL -->  <img align="center" src="logos/mysql_logo_pixel.png" alt="MySQL" height="70"/><!-- MySQL -->  <img align="center" src="logos/postgre_logo_pixel.png" alt="PostgreSQL" height="70"/><!-- PostgreSQL --></div>
 
 ___
 
@@ -27,7 +27,21 @@ ___
 
 :star: :star: :star: Puedes conocer más sobre mí en mi Portfolio Personal haciendo [Click Aquí!](https://esteban-olea---portfolio.web.app) :star: :star: :star:
 
-También puedes conectar conmigo en [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/esteban-olea-58b6151bb/)
+También puedes conectar conmigo en [![](https://img.shields.io/badge/LinkedIn-0a66c2)](https://www.linkedin.com/in/esteban-olea-58b6151bb/)
+
+___
+
+```txt
+   _____                _                                                  _     _ _        _ 
+  / ____|              (_)                                                (_)   (_) |      | |
+ | |  __ _ __ __ _  ___ _  __ _ ___   _ __   ___  _ __   ___ _   _  __   ___ ___ _| |_ __ _| |
+ | | |_ | '__/ _` |/ __| |/ _` / __| | '_ \ / _ \| '__| / __| | | | \ \ / / / __| | __/ _` | |
+ | |__| | | | (_| | (__| | (_| \__ \ | |_) | (_) | |    \__ \ |_| |  \ V /| \__ \ | || (_| |_|
+  \_____|_|  \__,_|\___|_|\__,_|___/ | .__/ \___/|_|    |___/\__,_|   \_/ |_|___/_|\__\__,_(_)
+                                     | |                                                      
+                                     |_|                                                      
+
+```
 
 <img height="25" src="https://i.giphy.com/ieDVXZS9Hzkmxk3MTj.webp">
 
