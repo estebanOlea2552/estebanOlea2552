@@ -25,9 +25,9 @@ ___
 
 <br>
 
-:star: :star: :star: Puedes conocer más sobre mí en mi Portfolio Personal haciendo [Click Aquí!](https://esteban-olea---portfolio.web.app) :star: :star: :star:
+<img height="15" src="https://i.giphy.com/1sPQflX5D963YaiMVR.webp"><img height="15" src="https://i.giphy.com/1sPQflX5D963YaiMVR.webp"><img height="15" src="https://i.giphy.com/1sPQflX5D963YaiMVR.webp">Puedes conocer más sobre mí en mi Portfolio Personal haciendo [Click Aquí!](https://esteban-olea---portfolio.web.app)<img height="15" src="https://i.giphy.com/1sPQflX5D963YaiMVR.webp"><img height="15" src="https://i.giphy.com/1sPQflX5D963YaiMVR.webp"><img height="15" src="https://i.giphy.com/1sPQflX5D963YaiMVR.webp">
 
-También puedes conectar conmigo en [![](https://img.shields.io/badge/LinkedIn-0a66c2)](https://www.linkedin.com/in/esteban-olea-58b6151bb/)
+:star: :star: :star: También puedes conectar conmigo en [![](https://img.shields.io/badge/LinkedIn-0a66c2)](https://www.linkedin.com/in/esteban-olea-58b6151bb/) :star: :star: :star:
 
 ___
 
